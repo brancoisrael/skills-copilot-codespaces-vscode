@@ -1,4 +1,4 @@
-function skillMember() {
+function skillsMember() {
   var member = document.getElementById("member");
   var skill = document.getElementById("skill");
   var memberText = document.getElementById("memberText");
